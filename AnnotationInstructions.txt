@@ -1,0 +1,17 @@
+Thanks for contributing to create this turkish multi document summary database!
+
+A set of documents about a particular event or topic are given to you. Documents are gathered from news articles from different sources. 
+
+TO DO:
+
+1)
+ You will create a short multi-document summary of the entire document
+ set. A short summary should not be longer than 120 words. We will chop off words beyond
+ the 120th, so please do not include more than 120.
+
+2) Within the size limits, you should try to represent ALL the content 
+ of the document set to some degree. 
+
+3) Do not include your subjective opinions, rather summarise the documents in an objective manner. 
+
+Feel free to use your own words.

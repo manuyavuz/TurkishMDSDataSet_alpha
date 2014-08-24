@@ -1,0 +1,8 @@
+Yaşanan istihbarat skandallarında adlarının geçmesinden rahatsız olan ABD'li teknoloji devi firmalar, Kongre'ye gönderdikleri ortak bir mektupta şeffaflığa vurgu yaparak kendilerinden talep edilen bilgileri kamuoyu ile paylaşmak için izin istedi.
+Apple, Google, Microsoft, Facebook, Yahoo ve AOL gibi firmalar, NSA'in yürüttüğü ve tüm dünyanın tepkisini çeken istihbarat faaliyetlerinde adlarının sıklıkla geçmesi sebebiyle harekete geçti.
+Kullanıcı ve müşterilerinin güvenini kaybetmekten çekinen dev şirketler, ortak imzayla kaleme alınan mektupta, son günlerde gözetleme faaliyetleri sonucu ortaya çıkan ifşaatların, ABD ve dış dünyada büyük endişelere yol açtığına vurgu yaptı.
+Şeffafığın önemine işaret edilen mektupta, "Şirketlerimiz ısrarla şunu açıklığa kavuşturmak istiyor ki, yasalar çerçevesinde sadece belli kullanıcı ve müşteri bilgilerine yönelik taleplere cevap verdik." ifadeleri kullanıldı.
+Ne çeşit ve kaç adet talep yapıldığına dair şeffaf olunması için şirketlere izin verilmesinin, hükümetin teknoloji firmaları üzerindeki otoritesinin daha iyi anlaşılmasına vesile olacağı dile getirildi.
+NSA'in taleplerini kamuoyu ile paylaşmakta ısrarcı olan şirketler, "Şeffaflığın artırılması ve bizden ne çeşit ve kaç adet talepte bulunulduğu konusunda daha fazla bilgi paylaşmaya izin verilmesi için yönetimi teşvik etmeye devam edeceğiz." ifadelerini kullandı.
+The Washington Post gazetesi önceki gün, NSA'in Google ve Yahoo'nun veri merkezlerini birbirine bağlayan ana iletişim hatlarına gizlice girerek buralardaki bilgileri kopyaladığını iddia etmişti.
+Teknoloji firmalarının ortak imzalı mektup gönderme kararı, bu iddiaların hemen ardından geldi.

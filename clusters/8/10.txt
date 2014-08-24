@@ -1,0 +1,18 @@
+ABD'nin teknoloji devleri, gizli servislere karşı atağa geçti.
+Teknoloji şirketleri gizli servislerin internetteki casusluk faaliyetlerine sınırlama getirilmesini istiyor.
+Aralarında Facebook, Microsoft, Google, Twitter, Yahoo ve Linkedln gibi dev isimlerin yer aldığı şirketler ABD Başkanı Barack Obama ve Amerikan Kongresi üyelerine hitaben bir mektup yazdı.
+Gizli servislerin internetteki casusluk programlarına karşı atağa geçen şirketler, kullanıcılarının internetteki faaliyetlerinin resmi kurumlar tarafından izlenmesine sınırlama getirilmesini talep etti.
+İnternet üzerinden uluslararası çaptaki casusluk faaliyetlerinin reformdan geçirilmesini isteyen şirketler açtıkları ortak internet sayfası üzerinden 5 maddelik bir plan sundu.
+Şirketler, gizli servislerin internetteki iletişim verilerini kitlesel olarak izlemek yerine sadece hedefe yönelik belirli kişilere ait verileri izlemesi gerektiğini kaydetti.
+Ayrıca ilgili makamlar ve adli kurumların da belirlenen kurallara uyulup uyulmadığını daha sıkı denetlemesi gerektiği vurgulandı.
+Şirketler ayrıca hükümetlerin neden ve hangi sıklıkta kullanıcı verilerini talep ettiğini kamuoyuna duyurabilme hakkı da istiyor.
+Kendilerinden kullanıcı bilgileri talep edilmesine uluslararası yasal bir çerçeve çizilmesini isteyen şirketler, yazdıkları açık mektupta "Artık değişim zamanı geldi." ifadelerine yer verdi.
+Bu konuda bir açıklama yapan Facebook'un kurucusu Mark Zuckerberg de "devlete bağlı kurumların yaptığı casusluk faaliyetlerinin, hükümetlerin bilgi toplarken yeni sınırlara ihtiyacı olduğunu gösterdiğini" belirtti.
+Zuckerberg, "İnsanlar güven duymadığı bir teknolojiyi kullanmayacaktır.
+Hükümetler bu güveni tehlikeye attı ve hükümetler güvenin yeniden tesis edilmesine yardım etmelidir." ifadelerini kullandı.
+Öte yandan ABD Ulusal Güvenlik Kurumu'nun (NSA) Almanya'da da kişisel verileri izlemesiyle ilgili tartışmalar sürüyor.
+NSA'in hangi kişisel verilere ulaştığının hâlâ tam olarak aydınlatılmadığını ifade eden Telekom Yönetim Kurulu Başkanı Rene Obermann, skandalın Almanya'da özgür iletişim ve özel hayatın korunmasına dair güveni sarstığına dikkat çekti.
+Handelsblatt gazetesine konuşan Obermann, bu sorunun uzun vadede demokrasiye büyük zarar verebileceğini ifade ederek Alman hükümeti ve AB Komisyonu'nu gerekli tepkiyi göstermemekle eleştirdi.
+Telekom Yönetim Kurulu Başkanı, ABD'ye veri güvenliği standartlarının korunması gerektiğinin hatırlatılmasının ekonominin değil, siyasetin işi olduğuna dikkat çekti.
+İnternet devleri, ülkeler arasında krize yol açan dinleme skandalı nedeniyle ticari kayba uğrama endişesi taşıyor.
+Söz konusu şirketlerin sahip olduğu e-posta ve sohbet programlarıyla birlikte sosyal paylaşım platformlarını dünyada milyonlarca kişi kullanıyor.

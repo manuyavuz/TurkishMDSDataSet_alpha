@@ -1,0 +1,7 @@
+ABD Ulusal Güvenlik Dairesi'nin (NSA) Almanya Başbakanı Angela Merkel'in telefonunu dinlemesiyle su yüzüne çıkan 'Prism' skandalından sonra dünyanın önde gelen teknoloji devlerinden tepki gelmeye devam ediyor.
+AOL, Apple, Facebook, Google, LinkedIn, Microsoft, Twitter ve Yahoo olmak üzere piyasa değeri 1.4 trilyon dolar olan 8 teknoloji şirketi, Beyaz Saray'a açık mektup yazdı.
+Yazılan açık mektupta ABD hükümetinin internetteki mahremiyet haklarından dolayı acil bir reform yapmasını önerdi.
+ABD Başkanı Barrack Obama ve kongre üyelerine hitaben yazılan mektupta, hükümetin sivillerin hayatını korumak istediği, ancak olaya teknoloji şirketleri açısından bakıldığında insanların teknoloji ürün ve servislere güveninin sarsılmaya başladığı ifade edildi.
+Yapılacak reformlarda hükümetin mahremiyet haklarına uygun veri transferine izin vermesi gerektiği ve şirketler ya da bireyler tarafından ülke dışında depolanan verilere erişimin engellememesi gerektiğini ifade edildi.
+Buna ek olarak ülke dışındaki servis sağlayıcılarda da veri depolamasına ve yönetilmesine izin verilmesi gerektiği iletilen mesajda belirtilenler arasında.
+Sızan dinleme haberleri sonrasında diplomatik depremlerin yarattığı hasarı azaltmayı hedefleyen Obama, NSA'e dinleme programlarını sonlandırma emri vermeyi planladığı bildirilmişti.

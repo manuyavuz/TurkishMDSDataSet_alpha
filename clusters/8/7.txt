@@ -1,0 +1,16 @@
+Dünyanın önde gelen teknoloji şirketleri, Amerika Birleşik Devletleri Başkanı ve Kongresi'ne mektup yazarak izleme faaliyetlerinde geniş çaplı değişiklik yapılmasını talep etti.
+AOL, Apple, Facebook, Google, LinkedIn, Microsoft, Twitter ve Yahoo şirketleri "Devlet İzlemesinde Reform Yapın" adlı bir grup oluşturdu.
+Ortak mektupta, mevcut izleme faaliyetinin halkın "özgürlüğüne zarar verdiğine" vurgu yapılıyor.
+Şirketlerin bu hareketi, izleme programlarının ne kadar kapsamlı olduğuna dair sızıntılara bir tepki niteliği taşıyor.
+İnternetteki tıklayın reformgovernmentsurveillance adlı sitede yayımlanan metinde şu ifadeler yer alıyor: "Hükümetlerin, vatandaşlarını koruma görevi olduğunu biliyoruz.
+Fakat bu yaz ortaya çıkanlar, dünya çapında devletlerin izleme uygulamalarında acil bir reform ihtiyacına ışık tuttu.
+Birçok ülkede denge, bireyin haklarının aleyhine, devletin lehine doğru fazlaca kaydı; kaldı ki bu hakların anayasamızda yeri vardır."
+Şirketler, Amerikan gizli servisi CIA için çalışırken edindiği bilgileri ifşa eden Edward Snowden'ın aktardığı bilgilere gönderme yapıyor.
+Snowden'ın sızdırdığı bilgiler, gizli servislerin telefon kayıtlarını takip ettiğini, fiber optik kablolar üzerinden küresel iletişimi izlediğini ve ağlara izinsizce girdiğini ortaya çıkarmıştı. 
+Dünyanın en büyük sosyal medya şirketi Facebook'un kurucusu Mark Zuckerberg, devletlerin bilgi toplama yöntemlerinin sınırlandırılması ihtiyacı doğduğunu belirterek, "ABD hükümeti, reforma öncülük etmek ve işleri yoluna koymak için bu fırsatı kullanmalıdır." dedi.
+İlk olarak İngiltere'de yayımlanan Guardian gazetesinin duyurduğu tıklayın Snowden belgeleri, şirketlerin ellerindeki verilerin ne kadarını devlet kuruluşları ile paylaştığı sorusunu tartışmaya açmıştı.
+Bunun üzerine Apple, Facebook, Google ve Microsoft kendilerine devletten gelen bilgi edinme taleplerini duyurmaya başladı.
+Hatta Google, Amerikan Ulusal Güvenlik Ajansı NSA tarafından yürütülen faaliyetlere sertçe tıklayın tepki gösterdi.
+Şirketlerin ortak açıklamasında, bu tür taleplerin ayrıntılarını kamuoyuyla paylaşma hakkının şirketlere tanınması sayesinde şeffaflık sağlanması isteniyor.
+BBC teknoloji muhabiri Rory Cellan-Jones, birbirlerine rakip olarak şirketlerin ortak taleplerle bir araya geldiğine dikkat çekerek, dünya çapında Amerikan teknoloji ürünlerine karşı duyulmaya başlanan güvensizliğin de bunda etkili olduğunu belirtiyor.
+Cellan-Jones, şirketlerin veri güvenliği konusunda müşterilerinin güvenini geri kazanma çabası karşısında istihbarat kuruluşlarının da boş durmayacağını belirterek şöyle diyor: "İnternetin kontrolü üzerine ajanlarla Silicon Vadisi arasındaki devam eden anlaşmazlık için sahnede.".
